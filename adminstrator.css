@@ -1,0 +1,30 @@
+/* body {
+  background-color: rgba(236, 25, 25, 0.876);
+} */
+#dimg {
+  width: 100%;
+  margin-left: 1%;
+}
+#con {
+  margin-top: 10%;
+  box-shadow: rgb(42, 39, 46) 50px 50px 50px;
+  background-color: rgba(181, 185, 192, 0.561);
+  padding-top: 10%;
+  padding-bottom: 5%;
+  border: solid black;
+  border-radius: 10%;
+  width: 50%;
+  margin-left: 22%;
+}
+#btn {
+  margin-top: 8%;
+  background-color: rgb(100, 210, 237);
+  font-size: 110%;
+  border: 1px solid rgb(27, 95, 134);
+}
+p {
+  text-align: center;
+}
+#contain {
+  background-color: rgba(120, 121, 122, 0);
+}

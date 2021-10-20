@@ -1,0 +1,41 @@
+#btn {
+  width: 30%;
+  margin-top: 1%;
+  margin-left: 35%;
+  background-color: rgb(250, 238, 203);
+  box-shadow: rgb(97, 97, 97) 4px 4px 4px;
+  color: black;
+}
+img {
+  box-shadow: black 5px 5px 5px;
+}
+body {
+  background-image: url(./images/Screen\ Shot\ 2021-10-19\ at\ 12.25.27\ AM.png);
+}
+#con {
+  background-color: rgba(204, 204, 204, 0.719);
+  box-shadow: rgb(56, 56, 56) 8px 8px 8px;
+  width: 50%;
+  margin-left: 20%;
+}
+
+#in {
+  background-color: rgb(250, 238, 203);
+}
+a {
+  font-size: 120%;
+}
+#btn1 {
+  width: 30%;
+  margin-top: 1%;
+  margin-left: 30%;
+  background-color: rgb(250, 238, 203);
+  box-shadow: rgb(97, 97, 97) 4px 4px 4px;
+  color: black;
+}
+#des {
+  margin-top: 2%;
+}
+h4 {
+  margin-top: 2%;
+}

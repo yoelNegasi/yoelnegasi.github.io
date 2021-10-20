@@ -1,0 +1,29 @@
+img {
+  box-shadow: 8px 8px rgb(116, 113, 113);
+}
+#nav {
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background-image: url(./images/Screen\ Shot\ 2021-10-19\ at\ 12.25.27\ AM.png);
+  opacity: 0.99;
+}
+#con {
+  background-color: rgba(151, 145, 145, 0.767);
+}
+h4 {
+  color: rgb(247, 247, 247);
+  font-size: 210%;
+}
+h2 {
+  font-size: 230%;
+  color: white;
+}
+#tt {
+  width: 70%;
+  margin-left: 5%;
+  height: 70%;
+}
+h5 {
+  color: rgb(255, 255, 255);
+}

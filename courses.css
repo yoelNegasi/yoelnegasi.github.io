@@ -1,0 +1,51 @@
+/* th {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+}
+.container-fluid {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background: radial-gradient(rgb(49, 108, 175));
+}
+#btn {
+  width: 30%;
+  height: 90%;
+  margin-top: 3%;
+  background-color: rgba(81, 122, 126, 0.342);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 1px solid black;
+  box-shadow: 1px rgb(29, 32, 39);
+}
+#tr {
+  background-color: rgba(81, 122, 126, 0.253);
+  color: rgb(71, 82, 60);
+}
+
+a.btn {
+  color: rgb(200, 172, 100);
+  font-family: fantasy;
+}
+#nav {
+  font-family: "Italianno", cursive;
+  font-size: 120%;
+}
+img {
+  box-shadow: 8px 8px rgb(116, 113, 113);
+}
+table {
+  box-shadow: 8px 8px rgb(116, 113, 113);
+}
+h1 {
+  text-shadow: 2px 2px;
+  color: rgb(184, 224, 224);
+} */
+
+#btn {
+  width: 30%;
+  margin-top: 3%;
+  margin-left: 35%;
+  background-color: bisque;
+  box-shadow: black 2px 2px 2px;
+}
+img {
+  box-shadow: black 5px 5px 5px;
+}
